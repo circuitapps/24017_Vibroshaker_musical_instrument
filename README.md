@@ -31,8 +31,11 @@ The above code is just a simple example to help you make a quick start to create
 ## Shopping List
 Following is a short shopping list to get the critical parts for the vibroshaker:
 1 - Shaker tubes: www.amazon.com/gp/product/B07SFMFB1Q
+
 2 - Vibration motors: www.amazon.com/gp/product/B07Q1ZV4MJ
+
 3 - Arduino Nano Every: www.amazon.com/gp/product/B07YQ56B6Q
+
 4 - Shaker beads: There is no particular brand to use here. Just get a few different types from your local crafts store that carries jewelry making items.
 
 If you build this project, please share your thoughts and suggestions with the rest of circuitapps community in the comments section of **<u>[our YouTube video][1]</u>**. Also, please feel free to talk about any interesting modifications you make and your experimentations!
