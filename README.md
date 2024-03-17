@@ -20,6 +20,7 @@ Inside the loop() function, you will see calls to the following three functions
 Simply comment out the ones you do not want to use, compile and upload the one you want to play with! Better still, use the existing tracks to create new ones you want to play. Sky is the limit and there are so many rhythms you can create for your vibroshaker!
 
 You can use the following mp3 track to play along:
+
 1 - For **drum_and_bass_1();** vibroshaker code, use backtrack ![drum_bass_mp3](./drum_bass_1.mp3)
 
 2 - For **malibu_loop_1();** vibroshaker code, use backtrack ![malibu_loop_mp3](./malibu_loop_1.mp3)
@@ -30,6 +31,7 @@ The above code is just a simple example to help you make a quick start to create
 
 ## Shopping List
 Following is a short shopping list to get the critical parts for the vibroshaker:
+
 1 - Shaker tubes: www.amazon.com/gp/product/B07SFMFB1Q
 
 2 - Vibration motors: www.amazon.com/gp/product/B07Q1ZV4MJ
