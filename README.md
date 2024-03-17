@@ -30,6 +30,7 @@ You can use the following mp3 track to play along:
 The above code is just a simple example to help you make a quick start to create the device demonstrated in **<u>[project video][1]</u>**, there are many other things you can do by introducing simple modifications to this basic code.
 
 ## Shopping List
+
 Following is a short shopping list to get the critical parts for the vibroshaker:
 
 1 - Shaker tubes: www.amazon.com/gp/product/B07SFMFB1Q
@@ -43,12 +44,15 @@ Following is a short shopping list to get the critical parts for the vibroshaker
 If you build this project, please share your thoughts and suggestions with the rest of circuitapps community in the comments section of **<u>[our YouTube video][1]</u>**. Also, please feel free to talk about any interesting modifications you make and your experimentations!
 
 ## Project Challenges
+
 1 - You may need to adjust the amount of beads in each shaker to generate the optimum sounds. Putting too many beads in a shaker may make it hard for the vibration motors to handle, therefore no sound can be generated.
 
 2 - While attaching each vibration motor to the shaker tube, be sure to create a tight connection. The vibration motor needs to make full contact with the bottom of each tube.
 
 ## Useful tips
+
 Following are a few tips you can use during your experimentation:
+
 1 - You can also change the dimensions and the material of each shaker tube to create different sounds.
 
 2 - You can also use different types of beads in each shaker tube to vary the sounds generated. Our recommendation is to use the same type of beads in all of the shakers to start with and adjust the amount. That way you will be able to generate different tones more consistently.
